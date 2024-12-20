@@ -47,3 +47,10 @@ The project is currently in development, with the main focus on improving the cu
 * CRUD operations for product management
 * Support for importing products via CSV files
 * Promotion management for products (introducing a separate PriceService)
+
+### Code
+* Frontend - https://github.com/Js111l/Ecommerce-UI
+* SecurityService - https://github.com/Js111l/Security_Service
+* ProductService - https://github.com/Js111l/Product_Service
+* FinancialTransactionsService - https://github.com/Js111l/Financial_Transactions_Service
+* GatewayService - https://github.com/Js111l/Gateway_service
