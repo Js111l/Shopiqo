@@ -7,6 +7,13 @@ Shopiqo is a full-stack e-commerce store project. The platform supports product 
 The backend is built in microservice architecure consisting of four core services: SecurityService, ProductService, FinancialTransactionsService and GatewayService - which serves as an API gateway. 
 Services has been implemented using Java and Spring Boot, except for FinancialTransactionsService, which was developed using Scala.
 
+### Code
+* Frontend - https://github.com/Js111l/Ecommerce-UI
+* SecurityService - https://github.com/Js111l/Security_Service
+* ProductService - https://github.com/Js111l/Product_Service
+* FinancialTransactionsService - https://github.com/Js111l/Financial_Transactions_Service
+* GatewayService - https://github.com/Js111l/Gateway_service
+
 
 ### Screenshots
 ![login-view jpg](https://github.com/user-attachments/assets/cdf03c65-03ed-4b52-8117-ffc968ed8312)
@@ -47,10 +54,3 @@ The project is currently in development, with the main focus on improving the cu
 * CRUD operations for product management
 * Support for importing products via CSV files
 * Promotion management for products (introducing a separate PriceService)
-
-### Code
-* Frontend - https://github.com/Js111l/Ecommerce-UI
-* SecurityService - https://github.com/Js111l/Security_Service
-* ProductService - https://github.com/Js111l/Product_Service
-* FinancialTransactionsService - https://github.com/Js111l/Financial_Transactions_Service
-* GatewayService - https://github.com/Js111l/Gateway_service
